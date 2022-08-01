@@ -1,0 +1,1 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([[10],{578:function(t,e,n){"use strict";n.r(e);var o={props:{goto:{type:String,default:""}},watch:{goto:function(t){alert(t),""!==t&&(this.$vuetify.goTo(t),this.$emit("callback"))}}},l=n(92),component=Object(l.a)(o,undefined,undefined,!1,null,null,null);e.default=component.exports}}]);
